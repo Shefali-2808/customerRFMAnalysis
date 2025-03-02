@@ -2,14 +2,12 @@
 
 This repository showcases an end-to-end analysis of a **sales dataset**, highlighting key insights such as revenue by country, top customers, shipping status, cancellations, and a Recency-Frequency-Monetary (RFM) segmentation.
 
----
+--
 
 ## Table of Contents
 1. [Overview](#overview)
 2. [Insights](#insights)
    - [Total Sales by Country](#total-sales-by-country)
-   - [Data Summary](#data-summary)
-   - [Missing Values](#missing-values)
    - [Customers by Country](#customers-by-country)
    - [Top Customers by Sales](#top-customers-by-sales)
    - [Shipping Status Distribution](#shipping-status-distribution)
